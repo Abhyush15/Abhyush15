@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Abhyush</h1>
+<h3 align="center">A coder from India</h3>
 
-<!--
-**Abhyush15/Abhyush15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=a151106&label=Profile%20views&color=ffff00&style=plastic" alt="Abhyush15" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhyush15" alt="Abhyush15" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **a python project.**
+
+- 🌱 I’m currently learning **python**
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Abhyush15&theme=coral)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a151106&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="Abhyush15" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a151106&show_icons=true&theme=highcontrast&locale=en" alt="Abhyush15" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a151106&theme=highcontrast" alt="Abhyush15" /></p>
