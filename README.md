@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhyush</h1>
 <h3 align="center">A coder from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhyush15&label=Profile%20views&color=ffff00&style=plastic" alt="Abhyush15" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhyush15&label=Profile%20views&color=a020f0&style=plastic" alt="Abhyush15" /> </p>
 
 ## Trophies :--
 
