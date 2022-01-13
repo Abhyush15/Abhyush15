@@ -15,7 +15,7 @@
 
 ## Activity Graph :--
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Abhyush15&bg_color=1c1126&color=d4007f&line=ffff00&point=00ffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Abhyush15&bg_color=1c1126&color=d4007f&line=00ffff&point=ffff00)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Languages and Tools:--
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
