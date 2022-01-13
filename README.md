@@ -1,5 +1,4 @@
-<h2 align="center">Hi 👋, I'm Abhyush</h2>(https://github.com/Abhyush15/Abhyush15/blob/main/header.png)
-<h3 align="center">A coder from India</h3>
+![A coder from India](https://github.com/Abhyush15/Abhyush15/blob/main/header.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhyush15&label=Profile%20views&color=a020f0&style=plastic" alt="Abhyush15" /> </p>
 
